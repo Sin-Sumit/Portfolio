@@ -1,6 +1,6 @@
 # Sumit Singh Portfolio
 
-## It is my Portfolio in digital form where I represent about myself, achievements and added my resume too. 
+### It is my Portfolio in digital form where I represent about myself, achievements and added my resume too. 
 ### The idea behind this is to make this portfolio in digital format so that it motivate the students who want to explore more opportunities, but due to lack of resources they stuck. So represent yourself in online platforms, it will create more opportunities as you keep working and adding skills.
 
 
